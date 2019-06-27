@@ -1,8 +1,4 @@
-# phonebook
-Address Book based on Laravel and Vue.js
-
----
-***
+#Address Book based on Laravel and Vue.js
 
 * https://bitfumes.com/courses/project/laravel-vuejs-phonebook-app/
 * https://github.com/bitfumes/phonebook
